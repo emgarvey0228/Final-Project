@@ -2,8 +2,8 @@
 
 [ext_resource path="res://COVID-19.jpg" type="Texture" id=1]
 [ext_resource path="res://Florida Sand Beach.jpg" type="Texture" id=2]
-[ext_resource path="res://player.png" type="Texture" id=3]
-[ext_resource path="res://Player.gd" type="Script" id=4]
+[ext_resource path="res://Player.gd" type="Script" id=3]
+[ext_resource path="res://player.png" type="Texture" id=4]
 
 [sub_resource type="RectangleShape2D" id=1]
 extents = Vector2( 43.3236, 42.1186 )
@@ -292,16 +292,16 @@ texture = ExtResource( 2 )
 
 [node name="Player" type="KinematicBody2D" parent="."]
 position = Vector2( 40.9967, 171.745 )
-script = ExtResource( 4 )
+script = ExtResource( 3 )
 __meta__ = {
 "_edit_group_": true
 }
 
 [node name="Sprite" type="Sprite" parent="Player"]
-position = Vector2( -11.0803, 3.71933e-05 )
+position = Vector2( -11.0803, 3.71933e-005 )
 scale = Vector2( 0.344225, 0.405692 )
-texture = ExtResource( 3 )
+texture = ExtResource( 4 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
-position = Vector2( 5.72205e-05, 5.72205e-05 )
+position = Vector2( 5.72205e-005, 5.72205e-005 )
 shape = SubResource( 2 )
