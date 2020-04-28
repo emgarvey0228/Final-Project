@@ -21,6 +21,7 @@ texture = ExtResource( 2 )
 [node name="Player" parent="." instance=ExtResource( 3 )]
 
 [node name="WorldComplete" parent="." instance=ExtResource( 4 )]
+position = Vector2( 898.26, 274.988 )
 world_scene = "res://Second.tscn"
 
 [node name="AudioStreamPlayer2D" parent="." instance=ExtResource( 5 )]

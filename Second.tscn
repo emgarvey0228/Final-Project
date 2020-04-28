@@ -47,6 +47,7 @@ position = Vector2( -40, 59 )
 [node name="AudioStreamPlayer2D" parent="." instance=ExtResource( 4 )]
 
 [node name="WorldComplete" parent="." instance=ExtResource( 5 )]
+position = Vector2( 874, 277 )
 world_scene = "res://End.tscn"
 
 [editable path="Corona Walls"]
