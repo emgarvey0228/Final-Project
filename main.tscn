@@ -17,11 +17,13 @@ __meta__ = {
 [node name="Background" type="Sprite" parent="."]
 position = Vector2( 435, 157 )
 texture = ExtResource( 2 )
+flip_h = true
 
 [node name="Player" parent="." instance=ExtResource( 3 )]
 
 [node name="WorldComplete" parent="." instance=ExtResource( 4 )]
 position = Vector2( 898.26, 274.988 )
+gravity = 95.0
 world_scene = "res://Second.tscn"
 
 [node name="AudioStreamPlayer2D" parent="." instance=ExtResource( 5 )]
