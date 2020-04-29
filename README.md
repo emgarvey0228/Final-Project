@@ -8,4 +8,4 @@ Developing this game was challenging due to so many factors. For starters, colla
 
 Since the theme of our Game Jam was Coronavirus, we decided that we wanted to have fun with it. This game consists of a user-controlled player who's objective is to pick up the Corona beverage. You can control the player by using the arrow keys. But watch out! Make sure you stay at least "6 feet" away from everyone else!
 
-If we had more time to create this project, we would want to implement new mini levels. We also understand that our game isn't very polished, but if we did get more time we would go back and fix the roughness of the assets. 
+If we had more time to create this project, we would want to implement new mini levels and add in enemies. We also understand that our game isn't very polished, but if we did get more time we would go back and fix the roughness of the assets. 
