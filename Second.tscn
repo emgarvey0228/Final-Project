@@ -36,7 +36,6 @@ position = Vector2( 701.493, 126.315 )
 position = Vector2( 315.175, 205.418 )
 
 [node name="Player" parent="." instance=ExtResource( 3 )]
-editor/display_folded = true
 
 [node name="Sprite" parent="Player" index="0"]
 position = Vector2( -9, 62 )
