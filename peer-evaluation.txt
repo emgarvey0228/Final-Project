@@ -1,0 +1,47 @@
+Name: Emily Clinkscales
+Date: 05/02/20
+
+Project: FInal_Project - Ronies with the Homies
+Group's repository: https://github.com/emgarvey0228/Final-Project
+
+
+
+What is something you learned by reviewing this group's project?
+#Somebody really did it. They took that Corona Beer Meme and ran with it.
+ 
+
+In what ways does this game reflect the theme?
+#Its reflected both in the literal pngs of Coronavirus they used as the platform bases, as well as the Corona Beer people are currently somehow afraid of for just sharing the name.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+#I did apprieciate the humor this group attempted to bring to the table.
+ 
+
+What suggestions would you have for this group to improve the game?
+#Yikes this is... it's game. First things first dear god if you're going to just straight cut clipart pngs from google for the love of god please cut out the white space. The controls are very confusing off the bat and could definitely have been better mapped. 
+#No form of end screen or signal at all that the game even ends. Even just a simple quick cut woul've been better.
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+#They used the ui based mapping as their actual control mapping, and was thus confused on what is actually the controls of the game for a moment.
+ 
+
+Is it clear that every group member participated?
+#I would assume so but I have no idea who did what with the lack thereof in the README.
+ 
+
+Does the repository contain an appropriate LICENSE?
+#Yes.
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+#Please make it clear who did what with this project. Its best everybody gets their due credit.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+#... Yikes. Y'all at least had a very humorous and fun game idea to start with, and a cheeky story.
+
+
+How many of your points would you allocate to this project?
+# Unfortunately this project only gets 1 of my 5 points.
+
